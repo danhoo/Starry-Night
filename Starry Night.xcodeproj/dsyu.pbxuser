@@ -1,0 +1,510 @@
+// !$*UTF8*$!
+{
+	089C1669FE841209C02AAC07 /* Project object */ = {
+		activeBuildConfigurationName = Release;
+		activeTarget = 8D255AC50486D3F9007BF209 /* Starry Night */;
+		addToTargets = (
+			8D255AC50486D3F9007BF209 /* Starry Night */,
+		);
+		breakpoints = (
+		);
+		codeSenseManager = 2B1D15C61100E45D00556630 /* Code sense */;
+		perUserDictionary = {
+			"PBXConfiguration.PBXBreakpointsDataSource.v1:1CA23EDF0692099D00951B8B" = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXBreakpointsDataSource_BreakpointID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					20,
+					327,
+					20,
+					227,
+					227,
+					155,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXBreakpointsDataSource_ActionID,
+					PBXBreakpointsDataSource_TypeID,
+					PBXBreakpointsDataSource_BreakpointID,
+					PBXBreakpointsDataSource_UseID,
+					PBXBreakpointsDataSource_LocationID,
+					PBXBreakpointsDataSource_ConditionID,
+					PBXBreakpointsDataSource_IgnoreCountID,
+					PBXBreakpointsDataSource_ContinueID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					691,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXTargetDataSource.PBXTargetDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					708,
+					60,
+					20,
+					48.16259765625,
+					43,
+					43,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXTargetDataSource_PrimaryAttribute,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 407367674;
+			PBXWorkspaceStateSaveDate = 407367674;
+		};
+		perUserProjectItems = {
+			2B062CC614AFD426001769BE /* PBXTextBookmark */ = 2B062CC614AFD426001769BE /* PBXTextBookmark */;
+			2B062D8014B0061A001769BE /* PBXTextBookmark */ = 2B062D8014B0061A001769BE /* PBXTextBookmark */;
+			2B19BB8514BA27220040E3F7 /* PBXTextBookmark */ = 2B19BB8514BA27220040E3F7 /* PBXTextBookmark */;
+			2B1ADA8913FF752100C8EA35 /* PBXTextBookmark */ = 2B1ADA8913FF752100C8EA35 /* PBXTextBookmark */;
+			2B1ADACC13FF782600C8EA35 /* PBXTextBookmark */ = 2B1ADACC13FF782600C8EA35 /* PBXTextBookmark */;
+			2B205FA3147F7A1100DEF1A4 /* PBXTextBookmark */ = 2B205FA3147F7A1100DEF1A4 /* PBXTextBookmark */;
+			2B2644C714802DD90047FE92 /* PBXTextBookmark */ = 2B2644C714802DD90047FE92 /* PBXTextBookmark */;
+			2B66E76E14AEDB43006A9388 /* PBXTextBookmark */ = 2B66E76E14AEDB43006A9388 /* PBXTextBookmark */;
+			2B702B40149F26CE0001B686 /* PBXTextBookmark */ = 2B702B40149F26CE0001B686 /* PBXTextBookmark */;
+			2B7503A914B83B7000B47116 /* PBXTextBookmark */ = 2B7503A914B83B7000B47116 /* PBXTextBookmark */;
+			2B89284214B4113B0056CBA0 /* PBXTextBookmark */ = 2B89284214B4113B0056CBA0 /* PBXTextBookmark */;
+			2B930FCE14837AE500F6893C /* PBXTextBookmark */ = 2B930FCE14837AE500F6893C /* PBXTextBookmark */;
+			2BAAC45616C6F5BF0066104C /* PBXTextBookmark */ = 2BAAC45616C6F5BF0066104C /* PBXTextBookmark */;
+			2BBD35771847F019000D7FA1 /* PBXTextBookmark */ = 2BBD35771847F019000D7FA1 /* PBXTextBookmark */;
+			2BBD35781847F019000D7FA1 /* XCBuildMessageTextBookmark */ = 2BBD35781847F019000D7FA1 /* XCBuildMessageTextBookmark */;
+			2BBD35981847F0A5000D7FA1 /* PBXTextBookmark */ = 2BBD35981847F0A5000D7FA1 /* PBXTextBookmark */;
+			2BD34637147F0D6F00621808 /* PBXTextBookmark */ = 2BD34637147F0D6F00621808 /* PBXTextBookmark */;
+			2BD34639147F0D6F00621808 /* PBXTextBookmark */ = 2BD34639147F0D6F00621808 /* PBXTextBookmark */;
+			2BD4A6C514C38D21003A2AAF /* PBXTextBookmark */ = 2BD4A6C514C38D21003A2AAF /* PBXTextBookmark */;
+			2BD4A6C614C38D21003A2AAF /* PBXTextBookmark */ = 2BD4A6C614C38D21003A2AAF /* PBXTextBookmark */;
+			2BD4A6C714C38D21003A2AAF /* PlistBookmark */ = 2BD4A6C714C38D21003A2AAF /* PlistBookmark */;
+			2BD4A6C814C38D21003A2AAF /* PBXTextBookmark */ = 2BD4A6C814C38D21003A2AAF /* PBXTextBookmark */;
+			2BD4A6C914C38D21003A2AAF /* PBXTextBookmark */ = 2BD4A6C914C38D21003A2AAF /* PBXTextBookmark */;
+		};
+		sourceControlManager = 2B1D15C51100E45D00556630 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	2B062CC614AFD426001769BE /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 2B2645111480C9BD0047FE92 /* CAAnimation.h */;
+		name = "CAAnimation.h: 132";
+		rLen = 50;
+		rLoc = 4141;
+		rType = 0;
+		vrLen = 1761;
+		vrLoc = 3356;
+	};
+	2B062D8014B0061A001769BE /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 2B062D8114B0061A001769BE /* ScreenSaverView.h */;
+		name = "ScreenSaverView.h: 38";
+		rLen = 0;
+		rLoc = 764;
+		rType = 0;
+		vrLen = 909;
+		vrLoc = 0;
+	};
+	2B062D8114B0061A001769BE /* ScreenSaverView.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = ScreenSaverView.h;
+		path = /Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/ScreenSaver.framework/Versions/A/Headers/ScreenSaverView.h;
+		sourceTree = "<absolute>";
+	};
+	2B19BB8514BA27220040E3F7 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 2B2D5F3114B94F900025750D /* ShootingStarView.m */;
+		name = "ShootingStarView.m: 35";
+		rLen = 45;
+		rLoc = 877;
+		rType = 0;
+		vrLen = 1293;
+		vrLoc = 593;
+	};
+	2B1ADA8913FF752100C8EA35 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 2B715AEB13FE48F5009D896B /* ReadMe DEVNOTES.txt */;
+		name = "ReadMe DEVNOTES.txt: 3";
+		rLen = 1;
+		rLoc = 61;
+		rType = 0;
+		vrLen = 733;
+		vrLoc = 0;
+	};
+	2B1ADACC13FF782600C8EA35 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 2B1ADACD13FF782600C8EA35 /* CALayer.h */;
+		name = "CALayer.h: 142";
+		rLen = 25;
+		rLoc = 4443;
+		rType = 0;
+		vrLen = 1214;
+		vrLoc = 3867;
+	};
+	2B1ADACD13FF782600C8EA35 /* CALayer.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = CALayer.h;
+		path = /Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/QuartzCore.framework/Versions/A/Headers/CALayer.h;
+		sourceTree = "<absolute>";
+	};
+	2B1D15C51100E45D00556630 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	2B1D15C61100E45D00556630 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	2B205FA3147F7A1100DEF1A4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 2B205FA4147F7A1100DEF1A4 /* NSColor.h */;
+		name = "NSColor.h: 43";
+		rLen = 30;
+		rLoc = 2699;
+		rType = 0;
+		vrLen = 968;
+		vrLoc = 2337;
+	};
+	2B205FA4147F7A1100DEF1A4 /* NSColor.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = NSColor.h;
+		path = /Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/AppKit.framework/Versions/C/Headers/NSColor.h;
+		sourceTree = "<absolute>";
+	};
+	2B205FA7147F7A1100DEF1A4 /* CGPath.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = CGPath.h;
+		path = /Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/CoreGraphics.framework/Versions/A/Headers/CGPath.h;
+		sourceTree = "<absolute>";
+	};
+	2B2644C714802DD90047FE92 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 2B205FA7147F7A1100DEF1A4 /* CGPath.h */;
+		name = "CGPath.h: 82";
+		rLen = 60;
+		rLoc = 2852;
+		rType = 0;
+		vrLen = 1944;
+		vrLoc = 1617;
+	};
+	2B2645111480C9BD0047FE92 /* CAAnimation.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = CAAnimation.h;
+		path = /Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/QuartzCore.framework/Versions/A/Headers/CAAnimation.h;
+		sourceTree = "<absolute>";
+	};
+	2B2D5F3114B94F900025750D /* ShootingStarView.m */ = {
+		isa = PBXFileReference;
+		fileEncoding = 4;
+		lastKnownFileType = sourcecode.c.objc;
+		name = ShootingStarView.m;
+		path = "/Users/dsyu/Documents/dev/mac/Screensavers/Starry Night/ShootingStarView.m";
+		sourceTree = "<absolute>";
+	};
+	2B66E76E14AEDB43006A9388 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 2B66E76F14AEDB43006A9388 /* NSAnimation.h */;
+		name = "NSAnimation.h: 79";
+		rLen = 28;
+		rLoc = 2245;
+		rType = 0;
+		vrLen = 1443;
+		vrLoc = 1435;
+	};
+	2B66E76F14AEDB43006A9388 /* NSAnimation.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = NSAnimation.h;
+		path = /Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/AppKit.framework/Versions/C/Headers/NSAnimation.h;
+		sourceTree = "<absolute>";
+	};
+	2B702B40149F26CE0001B686 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 2B702B41149F26CE0001B686 /* NSDate.h */;
+		name = "NSDate.h: 11";
+		rLen = 31;
+		rLoc = 239;
+		rType = 0;
+		vrLen = 1113;
+		vrLoc = 0;
+	};
+	2B702B41149F26CE0001B686 /* NSDate.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = NSDate.h;
+		path = /Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Foundation.framework/Versions/C/Headers/NSDate.h;
+		sourceTree = "<absolute>";
+	};
+	2B715AEB13FE48F5009D896B /* ReadMe DEVNOTES.txt */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = text;
+		name = "ReadMe DEVNOTES.txt";
+		path = "/Users/dsyu/Documents/dev/mac/Screensavers/Retrogame/ReadMe DEVNOTES.txt";
+		sourceTree = "<absolute>";
+	};
+	2B7503A914B83B7000B47116 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 2B7503AA14B83B7000B47116 /* stdlib.h */;
+		name = "stdlib.h: 121";
+		rLen = 28;
+		rLoc = 4150;
+		rType = 0;
+		vrLen = 845;
+		vrLoc = 3472;
+	};
+	2B7503AA14B83B7000B47116 /* stdlib.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = stdlib.h;
+		path = /Developer/SDKs/MacOSX10.6.sdk/usr/include/stdlib.h;
+		sourceTree = "<absolute>";
+	};
+	2B89284214B4113B0056CBA0 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 2BA7C79113FE2AA600CC182E /* LICENSE */;
+		name = "LICENSE: 1";
+		rLen = 0;
+		rLoc = 18;
+		rType = 0;
+		vrLen = 1050;
+		vrLoc = 0;
+	};
+	2B930FCE14837AE500F6893C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 2BD34657147F0F3300621808 /* CGGeometry.h */;
+		name = "CGGeometry.h: 21";
+		rLen = 16;
+		rLoc = 325;
+		rType = 0;
+		vrLen = 659;
+		vrLoc = 0;
+	};
+	2BA7C77C13FE297C00CC182E /* StarryNightView.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {869, 923}}";
+			sepNavSelRange = "{1536, 0}";
+			sepNavVisRange = "{912, 1171}";
+			sepNavWindowFrame = "{{91, 5}, {1076, 941}}";
+		};
+	};
+	2BA7C77E13FE298A00CC182E /* StarryNightView.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {869, 11778}}";
+			sepNavSelRange = "{10695, 0}";
+			sepNavVisRange = "{10092, 1155}";
+			sepNavWindowFrame = "{{15, 56}, {1076, 941}}";
+		};
+	};
+	2BA7C78013FE299400CC182E /* StarryNight_Prefix.pch */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {869, 487}}";
+			sepNavSelRange = "{121, 0}";
+			sepNavVisRange = "{0, 196}";
+		};
+	};
+	2BA7C78F13FE2A9E00CC182E /* ReadMe.txt */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {3232, 534}}";
+			sepNavSelRange = "{1798, 0}";
+			sepNavVisRange = "{0, 1798}";
+		};
+	};
+	2BA7C79113FE2AA600CC182E /* LICENSE */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {3232, 566}}";
+			sepNavSelRange = "{18, 0}";
+			sepNavVisRange = "{0, 1050}";
+		};
+	};
+	2BA7C7A613FE2BCE00CC182E /* en */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {869, 534}}";
+			sepNavSelRange = "{153, 0}";
+			sepNavVisRange = "{0, 156}";
+		};
+	};
+	2BA7C7A813FE2C8E00CC182E /* MailTextField.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {869, 534}}";
+			sepNavSelRange = "{23, 82}";
+			sepNavVisRange = "{0, 304}";
+		};
+	};
+	2BA7C7AA13FE2C9600CC182E /* MailTextField.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {869, 534}}";
+			sepNavSelRange = "{784, 0}";
+			sepNavVisRange = "{0, 958}";
+		};
+	};
+	2BAAC45616C6F5BF0066104C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 2BA7C77C13FE297C00CC182E /* StarryNightView.h */;
+		name = "StarryNightView.h: 52";
+		rLen = 0;
+		rLoc = 1536;
+		rType = 0;
+		vrLen = 1171;
+		vrLoc = 912;
+	};
+	2BBD35771847F019000D7FA1 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 2BA7C77E13FE298A00CC182E /* StarryNightView.m */;
+		name = "StarryNightView.m: 305";
+		rLen = 0;
+		rLoc = 10695;
+		rType = 0;
+		vrLen = 1155;
+		vrLoc = 10092;
+	};
+	2BBD35781847F019000D7FA1 /* XCBuildMessageTextBookmark */ = {
+		isa = PBXTextBookmark;
+		comments = "Foundation/Foundation.h: No such file or directory";
+		fRef = 2BA7C78013FE299400CC182E /* StarryNight_Prefix.pch */;
+		fallbackIsa = XCBuildMessageTextBookmark;
+		rLen = 1;
+		rLoc = 5;
+		rType = 1;
+	};
+	2BBD35981847F0A5000D7FA1 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 2BA7C78013FE299400CC182E /* StarryNight_Prefix.pch */;
+		name = "StarryNight_Prefix.pch: 6";
+		rLen = 0;
+		rLoc = 121;
+		rType = 0;
+		vrLen = 196;
+		vrLoc = 0;
+	};
+	2BD34637147F0D6F00621808 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 2BD34638147F0D6F00621808 /* NSBezierPath.h */;
+		name = "NSBezierPath.h: 42";
+		rLen = 57;
+		rLoc = 797;
+		rType = 0;
+		vrLen = 788;
+		vrLoc = 478;
+	};
+	2BD34638147F0D6F00621808 /* NSBezierPath.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = NSBezierPath.h;
+		path = /Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/AppKit.framework/Versions/C/Headers/NSBezierPath.h;
+		sourceTree = "<absolute>";
+	};
+	2BD34639147F0D6F00621808 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 2BD3463A147F0D6F00621808 /* NSGeometry.h */;
+		name = "NSGeometry.h: 21";
+		rLen = 25;
+		rLoc = 626;
+		rType = 0;
+		vrLen = 857;
+		vrLoc = 0;
+	};
+	2BD3463A147F0D6F00621808 /* NSGeometry.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = NSGeometry.h;
+		path = /Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Foundation.framework/Versions/C/Headers/NSGeometry.h;
+		sourceTree = "<absolute>";
+	};
+	2BD34657147F0F3300621808 /* CGGeometry.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = CGGeometry.h;
+		path = /Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/CoreGraphics.framework/Versions/A/Headers/CGGeometry.h;
+		sourceTree = "<absolute>";
+	};
+	2BD4A6C514C38D21003A2AAF /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 2BA7C7A813FE2C8E00CC182E /* MailTextField.h */;
+		name = "MailTextField.h: 3";
+		rLen = 82;
+		rLoc = 23;
+		rType = 0;
+		vrLen = 304;
+		vrLoc = 0;
+	};
+	2BD4A6C614C38D21003A2AAF /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 2BA7C7AA13FE2C9600CC182E /* MailTextField.m */;
+		name = "MailTextField.m: 31";
+		rLen = 0;
+		rLoc = 784;
+		rType = 0;
+		vrLen = 958;
+		vrLoc = 0;
+	};
+	2BD4A6C714C38D21003A2AAF /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D255AD20486D3F9007BF209 /* Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/Users/dsyu/Documents/dev/mac/Screensavers/Starry Night/Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775808;
+	};
+	2BD4A6C814C38D21003A2AAF /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 2BA7C7A613FE2BCE00CC182E /* en */;
+		name = "InfoPlist.strings: 3";
+		rLen = 0;
+		rLoc = 153;
+		rType = 0;
+		vrLen = 156;
+		vrLoc = 0;
+	};
+	2BD4A6C914C38D21003A2AAF /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 2BA7C78F13FE2A9E00CC182E /* ReadMe.txt */;
+		name = "ReadMe.txt: 24";
+		rLen = 0;
+		rLoc = 1798;
+		rType = 0;
+		vrLen = 1798;
+		vrLoc = 0;
+	};
+	8D255AC50486D3F9007BF209 /* Starry Night */ = {
+		activeExec = 0;
+	};
+}
