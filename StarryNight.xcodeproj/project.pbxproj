@@ -1,0 +1,357 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 56;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		84A1C72B295BA8F6008C067F /* ConfigureSheet.xib in Resources */ = {isa = PBXBuildFile; fileRef = 84A1C72A295BA8F6008C067F /* ConfigureSheet.xib */; };
+		84A2C293296029DF000864DB /* Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 84A2C292296029DF000864DB /* Info.plist */; };
+		84DC142B29484EDB00F8DFD0 /* StarryNightView.h in Headers */ = {isa = PBXBuildFile; fileRef = 84DC142A29484EDB00F8DFD0 /* StarryNightView.h */; };
+		84DC142D29484EDB00F8DFD0 /* StarryNightView.m in Sources */ = {isa = PBXBuildFile; fileRef = 84DC142C29484EDB00F8DFD0 /* StarryNightView.m */; };
+		84F37EE1295BFDE400798203 /* ScreenSaver.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 84F37EE0295BFDE400798203 /* ScreenSaver.framework */; };
+		84F37EE3295BFDF500798203 /* QuartzCore.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 84F37EE2295BFDF500798203 /* QuartzCore.framework */; };
+		84F37EE5295BFDFD00798203 /* Cocoa.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 84F37EE4295BFDFD00798203 /* Cocoa.framework */; };
+		84F37EE7295BFE2C00798203 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 84F37EE6295BFE2C00798203 /* Foundation.framework */; };
+		84F37EE9295BFE3400798203 /* AppKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 84F37EE8295BFE3400798203 /* AppKit.framework */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		84A1C72A295BA8F6008C067F /* ConfigureSheet.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = ConfigureSheet.xib; sourceTree = "<group>"; };
+		84A2C292296029DF000864DB /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		84DC142729484EDB00F8DFD0 /* StarryNight.saver */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = StarryNight.saver; sourceTree = BUILT_PRODUCTS_DIR; };
+		84DC142A29484EDB00F8DFD0 /* StarryNightView.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = StarryNightView.h; sourceTree = "<group>"; };
+		84DC142C29484EDB00F8DFD0 /* StarryNightView.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = StarryNightView.m; sourceTree = "<group>"; };
+		84F37EE0295BFDE400798203 /* ScreenSaver.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = ScreenSaver.framework; path = System/Library/Frameworks/ScreenSaver.framework; sourceTree = SDKROOT; };
+		84F37EE2295BFDF500798203 /* QuartzCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = QuartzCore.framework; path = System/Library/Frameworks/QuartzCore.framework; sourceTree = SDKROOT; };
+		84F37EE4295BFDFD00798203 /* Cocoa.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Cocoa.framework; path = System/Library/Frameworks/Cocoa.framework; sourceTree = SDKROOT; };
+		84F37EE6295BFE2C00798203 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
+		84F37EE8295BFE3400798203 /* AppKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AppKit.framework; path = System/Library/Frameworks/AppKit.framework; sourceTree = SDKROOT; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		84DC142429484EDB00F8DFD0 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				84F37EE9295BFE3400798203 /* AppKit.framework in Frameworks */,
+				84F37EE7295BFE2C00798203 /* Foundation.framework in Frameworks */,
+				84F37EE5295BFDFD00798203 /* Cocoa.framework in Frameworks */,
+				84F37EE3295BFDF500798203 /* QuartzCore.framework in Frameworks */,
+				84F37EE1295BFDE400798203 /* ScreenSaver.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		84A2C294296029EC000864DB /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				84A1C72A295BA8F6008C067F /* ConfigureSheet.xib */,
+				84A2C292296029DF000864DB /* Info.plist */,
+			);
+			path = Resources;
+			sourceTree = "<group>";
+		};
+		84DC141D29484EDB00F8DFD0 = {
+			isa = PBXGroup;
+			children = (
+				84A2C294296029EC000864DB /* Resources */,
+				84DC142929484EDB00F8DFD0 /* StarryNight */,
+				84DC142829484EDB00F8DFD0 /* Products */,
+				84F37EDF295BFDE400798203 /* Frameworks */,
+			);
+			sourceTree = "<group>";
+		};
+		84DC142829484EDB00F8DFD0 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				84DC142729484EDB00F8DFD0 /* StarryNight.saver */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		84DC142929484EDB00F8DFD0 /* StarryNight */ = {
+			isa = PBXGroup;
+			children = (
+				84DC142A29484EDB00F8DFD0 /* StarryNightView.h */,
+				84DC142C29484EDB00F8DFD0 /* StarryNightView.m */,
+			);
+			path = StarryNight;
+			sourceTree = "<group>";
+		};
+		84F37EDF295BFDE400798203 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				84F37EE8295BFE3400798203 /* AppKit.framework */,
+				84F37EE6295BFE2C00798203 /* Foundation.framework */,
+				84F37EE4295BFDFD00798203 /* Cocoa.framework */,
+				84F37EE2295BFDF500798203 /* QuartzCore.framework */,
+				84F37EE0295BFDE400798203 /* ScreenSaver.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXHeadersBuildPhase section */
+		84DC142229484EDB00F8DFD0 /* Headers */ = {
+			isa = PBXHeadersBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				84DC142B29484EDB00F8DFD0 /* StarryNightView.h in Headers */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXHeadersBuildPhase section */
+
+/* Begin PBXNativeTarget section */
+		84DC142629484EDB00F8DFD0 /* StarryNight */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 84DC143029484EDB00F8DFD0 /* Build configuration list for PBXNativeTarget "StarryNight" */;
+			buildPhases = (
+				84DC142229484EDB00F8DFD0 /* Headers */,
+				84DC142329484EDB00F8DFD0 /* Sources */,
+				84DC142429484EDB00F8DFD0 /* Frameworks */,
+				84DC142529484EDB00F8DFD0 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = StarryNight;
+			productName = StarryNight;
+			productReference = 84DC142729484EDB00F8DFD0 /* StarryNight.saver */;
+			productType = "com.apple.product-type.bundle";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		84DC141E29484EDB00F8DFD0 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastUpgradeCheck = 1410;
+				TargetAttributes = {
+					84DC142629484EDB00F8DFD0 = {
+						CreatedOnToolsVersion = 14.1;
+					};
+				};
+			};
+			buildConfigurationList = 84DC142129484EDB00F8DFD0 /* Build configuration list for PBXProject "StarryNight" */;
+			compatibilityVersion = "Xcode 14.0";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 84DC141D29484EDB00F8DFD0;
+			productRefGroup = 84DC142829484EDB00F8DFD0 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				84DC142629484EDB00F8DFD0 /* StarryNight */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		84DC142529484EDB00F8DFD0 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				84A2C293296029DF000864DB /* Info.plist in Resources */,
+				84A1C72B295BA8F6008C067F /* ConfigureSheet.xib in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		84DC142329484EDB00F8DFD0 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				84DC142D29484EDB00F8DFD0 /* StarryNightView.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin XCBuildConfiguration section */
+		84DC142E29484EDB00F8DFD0 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 10.14;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = macosx;
+			};
+			name = Debug;
+		};
+		84DC142F29484EDB00F8DFD0 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 10.14;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = macosx;
+			};
+			name = Release;
+		};
+		84DC143129484EDB00F8DFD0 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				COMBINE_HIDPI_IMAGES = YES;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = 878T6T78M9;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_NSHumanReadableCopyright = "";
+				INFOPLIST_KEY_NSPrincipalClass = StarryNightView;
+				INSTALL_PATH = "$(HOME)/Library/Screen Savers";
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = mindconsoleproductions.StarryNight;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				WRAPPER_EXTENSION = saver;
+			};
+			name = Debug;
+		};
+		84DC143229484EDB00F8DFD0 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				COMBINE_HIDPI_IMAGES = YES;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = 878T6T78M9;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_NSHumanReadableCopyright = "";
+				INFOPLIST_KEY_NSPrincipalClass = StarryNightView;
+				INSTALL_PATH = "$(HOME)/Library/Screen Savers";
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = mindconsoleproductions.StarryNight;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				WRAPPER_EXTENSION = saver;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		84DC142129484EDB00F8DFD0 /* Build configuration list for PBXProject "StarryNight" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				84DC142E29484EDB00F8DFD0 /* Debug */,
+				84DC142F29484EDB00F8DFD0 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		84DC143029484EDB00F8DFD0 /* Build configuration list for PBXNativeTarget "StarryNight" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				84DC143129484EDB00F8DFD0 /* Debug */,
+				84DC143229484EDB00F8DFD0 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 84DC141E29484EDB00F8DFD0 /* Project object */;
+}
